@@ -1,2 +1,2 @@
 # GaussianElimination
-Small project I made for linear algebra class
+Preforms gaussian elimination on a 3 x 3 matrix and displays it. I'm not super familiar with html and js but wanted to try making a small project using it, which is also why the matrix is limited to 3 x 3 size. To run just download and open the file on any browser, fill out the form and then hit submit.
